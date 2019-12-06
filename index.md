@@ -6,8 +6,8 @@ layout: default
 
 I'm a passionate *Unity Gameplay Developer / Programmer* who loves to develop gameplay mechanics for entertainment and educational game-focused applications, as well as design patterns and level design.
 
-If you are a developer, I really appreciate if these [code snippets](https://github.com/alissin/little-big-tips) could help you!<br />
-If you are a gamer, let's have [some fun](https://simmer.io/@alissin)!
+If you are a developer, I really appreciate if these [code snippets](https://github.com/alissin/little-big-tips){:target="_blank"} could help you!<br />
+If you are a gamer, let's have [some fun](https://simmer.io/@alissin){:target="_blank"}!
 
 # Portifolio ![Joystick](./images/joystick.png)
 
@@ -20,7 +20,7 @@ Some production projects already published:
 > ![Porta Aberta RA](./featured-projects/porta-aberta-ra.png)
 
 A 3D mobile game with Augmented Reality for education purposes.<br/>
-You can read more, download and play it on [Apple Store](https://apps.apple.com/us/app/porta-aberta-ra/id1464966853).
+You can read more, download and play it on [Apple Store](https://apps.apple.com/us/app/porta-aberta-ra/id1464966853){:target="_blank"}.
 
 **Mechanics / techniques / tools:**
 * augmented reality;
@@ -32,7 +32,7 @@ You can read more, download and play it on [Apple Store](https://apps.apple.com/
 > ![CPFL Energia em Jogo](./featured-projects/cpfl-energia-em-jogo.png)
 
 An isometric 2D game with RPG mechanic for education purposes in saving power.<br/>
-You can read more, download and play it on [Play Store](https://play.google.com/store/apps/details?id=br.com.energiaemjogo.cpfl).
+You can read more, download and play it on [Play Store](https://play.google.com/store/apps/details?id=br.com.energiaemjogo.cpfl){:target="_blank"}.
 
 **Mechanics / techniques / tools:**
 * basic finite-state machine mechanic;
@@ -45,7 +45,7 @@ You can read more, download and play it on [Play Store](https://play.google.com/
 > ![Motherly](./featured-projects/motherly.png)
 
 A 2D / mobile app to help women in their pregnancy process.<br/>
-You can read more and early access on [Play Store](https://play.google.com/store/apps/details?id=com.perugluglu.motherly).
+You can read more and early access on [Play Store](https://play.google.com/store/apps/details?id=com.perugluglu.motherly){:target="_blank"}.
 
 **Mechanics / techniques / tools:**
 * screen template and dynamic flow mechanic, filled and organized in runtime;
@@ -60,20 +60,21 @@ Prototypes to show some cool gameplay techniques:
 
 "Defend your realm from the strong enemies warriors. Use everything you have!"<br/>
 A 3D pathfinder / tower defence style game.<br/>
-Play this demonstration on [simmer.io](https://simmer.io/@alissin/realm-defender)
+Play this demonstration on [simmer.io](https://simmer.io/@alissin/realm-defender){:target="_blank"}.
 
 **Mechanics / techniques / tools:**
-* pathfinder using Breadth First Search -> [`code snippet`](https://github.com/alissin/little-big-tips/pathfinder)
-* raycast 3D click detection -> [`code snippet`](https://github.com/alissin/little-big-tips/raycast-3D-click-detection)
-* simple cooldown system -> [`code snippet`](https://github.com/alissin/little-big-tips/simple-cooldown)
-* simple damage shake effect -> [`code snippet`](https://github.com/alissin/little-big-tips/simple-damage-shake)
+* pathfinder using Breadth First Search -> [`code snippet`](https://github.com/alissin/little-big-tips/pathfinder){:target="_blank"}
+* object pool pattern -> [`code snippet`](https://github.com/alissin/little-big-tips/pattern-obj-pool){:target="_blank"}
+* raycast 3D click detection -> [`code snippet`](https://github.com/alissin/little-big-tips/raycast-3D-click-detection){:target="_blank"}
+* simple cooldown system -> [`code snippet`](https://github.com/alissin/little-big-tips/simple-cooldown){:target="_blank"}
+* simple damage shake effect -> [`code snippet`](https://github.com/alissin/little-big-tips/simple-damage-shake){:target="_blank"}
 
 # Contact ![Joystick](./images/joystick.png)
 
 Do you have an interesting project in mind? I'm open for professional opportunities and I'd love to help!
 
-[![LinkedIn](./images/contact_linkedin.png)](https://linkedin.com/in/alissin)
-[![SIMMER](./images/contact_simmer.png)](https://simmer.io/@alissin)
-[![GitHub](./images/contact_github.png)](https://github.com/alissin/little-big-tips)
+[![LinkedIn](./images/contact_linkedin.png)](https://linkedin.com/in/alissin){:target="_blank"}
+[![SIMMER](./images/contact_simmer.png)](https://simmer.io/@alissin){:target="_blank"}
+[![GitHub](./images/contact_github.png)](https://github.com/alissin/little-big-tips){:target="_blank"}
 
-[comment]: <[![YouTube](./images/contact_youtube.png)](https://www.youtube.com/alissinsilva/)>
+[comment]: <[![YouTube](./images/contact_youtube.png)](https://www.youtube.com/alissinsilva/)>{:target="_blank"}
