@@ -4,7 +4,7 @@ layout: default
 
 # Hello and welcome! ![Joystick](./images/joystick.png)
 
-I'm a passionate *Unity Gameplay Developer / Programmer* who loves to develop gameplay mechanics for entertainment and educational game-focused applications, as well as design patterns and level design.
+I'm a passionate _**Unity Gameplay Developer / Programmer**_ who loves to develop gameplay mechanics for entertainment and educational game-focused applications, as well as design patterns and level design.
 
 If you are a developer, I really appreciate if these [code snippets](https://github.com/alissin/little-big-tips){:target="_blank"} could help you!<br />
 If you are a gamer, let's have [some fun](https://simmer.io/@alissin){:target="_blank"}!
@@ -69,6 +69,29 @@ Play this demonstration on [simmer.io](https://simmer.io/@alissin/realm-defender
 * simple cooldown system -> [`code snippet`](https://github.com/alissin/little-big-tips/simple-cooldown){:target="_blank"}
 * simple damage shake effect -> [`code snippet`](https://github.com/alissin/little-big-tips/simple-damage-shake){:target="_blank"}
 
+###	Boost the Rocket
+
+> ![Boost the Rocket](./demonstration-projects/boost-the-rocket.png)
+
+"Be strong and boost the rocket wisely to escape these space dungeons!"<br/>
+A 2.5D game that uses physics to control the gravity of the rocket. You can launch it smoothly, but be careful to land it!<br/>
+Play this demonstration on [simmer.io](https://simmer.io/@alissin/boost-the-rocket){:target="_blank"}.
+
+**Mechanics / techniques / tools:**
+* land the rocket -> [`code snippet`](https://github.com/alissin/little-big-tips/land-the-rocket){:target="_blank"}
+* explode the rocket -> [`code snippet`](https://github.com/alissin/little-big-tips/explode-the-rocket){:target="_blank"}
+
+###	Goal Dribble
+
+> ![Goal Dribble](./demonstration-projects/goal-dribble.png)
+
+"As a good soccer striker, sometimes you have to finish the play and make the goal!"<br/>
+A 3D fast-paced twitch humble version inspired in Super Hexagon and my first game in Unity!<br/>
+Play this demonstration on [simmer.io](https://simmer.io/@alissin/goal-dribble){:target="_blank"}.
+
+**Mechanics / techniques / tools:**
+* roll the ball -> [`code snippet`](https://github.com/alissin/little-big-tips/roll-the-ball){:target="_blank"}
+
 # Contact ![Joystick](./images/joystick.png)
 
 Do you have an interesting project in mind? I'm open for professional opportunities and I'd love to help!
@@ -77,4 +100,4 @@ Do you have an interesting project in mind? I'm open for professional opportunit
 [![SIMMER](./images/contact_simmer.png)](https://simmer.io/@alissin){:target="_blank"}
 [![GitHub](./images/contact_github.png)](https://github.com/alissin/little-big-tips){:target="_blank"}
 
-[comment]: <[![YouTube](./images/contact_youtube.png)](https://www.youtube.com/alissinsilva/)>{:target="_blank"}
+[comment]: <[![YouTube](./images/contact_youtube.png)](https://www.youtube.com/alissinsilva/){:target="_blank"}>
