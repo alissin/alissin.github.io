@@ -4,9 +4,8 @@ layout: default
 
 # Hello and welcome! ![Joystick](./images/joystick.png)
 
-I'm a passionate *Unity Gameplay Developer / Programmer* who loves to develop gameplay mechanics for entertainment and educational purposes, as well as design patterns and level design.
+I'm a passionate *Unity Gameplay Developer / Programmer* who loves to develop gameplay mechanics for entertainment and educational game-focused applications, as well as design patterns and level design.
 
-Below, you can learn more about me and my portfolio.<br />
 If you are a developer, I really appreciate if these [code snippets](https://github.com/alissin/little-big-tips) could help you!<br />
 If you are a gamer, let's have [some fun](https://simmer.io/@alissin)!
 
@@ -20,40 +19,36 @@ Some production projects already published:
 
 > ![Porta Aberta RA](./featured-projects/porta-aberta-ra.png)
 
-A 3D mobile game with Augmented Reality for education purposes.
+A 3D mobile game with Augmented Reality for education purposes.<br/>
+You can read more, download and play it on [Apple Store](https://apps.apple.com/us/app/porta-aberta-ra/id1464966853).
 
 **Mechanics / techniques / tools:**
 * augmented reality;
 * Vulforia;
 * 3D models / animations;
 
-You can read more, download and play it on [Apple Store](https://apps.apple.com/us/app/porta-aberta-ra/id1464966853).
-
 ### CPFL Energia em Jogo
 
 > ![CPFL Energia em Jogo](./featured-projects/cpfl-energia-em-jogo.png)
 
-An isometric 2D game with RPG mechanic for education purposes in saving power.
+An isometric 2D game with RPG mechanic for education purposes in saving power.<br/>
+You can read more, download and play it on [Play Store](https://play.google.com/store/apps/details?id=br.com.energiaemjogo.cpfl).
 
 **Mechanics / techniques / tools:**
 * basic finite-state machine mechanic;
 * event based system;
 * basic RPG and time based mechanic (health, stamina (happiness));
-* remote access: multiple users login / ranking points
-
-You can read more, download and play it on [Play Store](https://play.google.com/store/apps/details?id=br.com.energiaemjogo.cpfl)
+* remote access: multiple users login / ranking points;
 
 ### Motherly
 
 > ![Motherly](./featured-projects/motherly.png)
 
-A 2D / mobile app to help women in their pregnancy process.
+A 2D / mobile app to help women in their pregnancy process.<br/>
+You can read more and early access on [Play Store](https://play.google.com/store/apps/details?id=com.perugluglu.motherly).
 
 **Mechanics / techniques / tools:**
 * screen template and dynamic flow mechanic, filled and organized in runtime;
-* analytics;
-
-You can read more and early access on [Play Store](https://play.google.com/store/apps/details?id=com.perugluglu.motherly).
 
 ## Demonstration Projects
 
