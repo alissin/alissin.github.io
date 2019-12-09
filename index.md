@@ -63,11 +63,24 @@ A 3D pathfinder / tower defence style game.<br/>
 Play this demonstration on [simmer.io](https://simmer.io/@alissin/realm-defender){:target="_blank"}.
 
 **Mechanics / techniques / tools:**
-* pathfinder using Breadth First Search -> [`code snippet`](https://github.com/alissin/little-big-tips/pathfinder){:target="_blank"}
-* object pool pattern -> [`code snippet`](https://github.com/alissin/little-big-tips/pattern-obj-pool){:target="_blank"}
+* pathfinder using Breadth First Search -> [`code snippet`](https://github.com/alissin/little-big-tips/_pattern-algorithm/breadth-first-search){:target="_blank"}
+* object pool pattern -> [`code snippet`](https://github.com/alissin/little-big-tips/_pattern-algorithm/object-pool){:target="_blank"}
 * raycast 3D click detection -> [`code snippet`](https://github.com/alissin/little-big-tips/raycast-3D-click-detection){:target="_blank"}
-* simple cooldown system -> [`code snippet`](https://github.com/alissin/little-big-tips/simple-cooldown){:target="_blank"}
-* simple damage shake effect -> [`code snippet`](https://github.com/alissin/little-big-tips/simple-damage-shake){:target="_blank"}
+* simple cooldown -> [`code snippet`](https://github.com/alissin/little-big-tips/simple-cooldown){:target="_blank"}
+
+###	Combat Wings
+
+> ![Combat Wings](./demonstration-projects/combat-wings.png)
+
+"Defend your planet from the rogue robots!"<br/>
+A 3rd person path rail shooter.<br/>
+Play this demonstration on [simmer.io](https://simmer.io/@alissin/combat-wings){:target="_blank"}.
+
+**Mechanics / techniques / tools:**
+* airplane movement -> [`code snippet`](https://github.com/alissin/little-big-tips/airplane-movement){:target="_blank"}
+* sky rotation shader -> [`code snippet`](https://github.com/alissin/little-big-tips/_vfx/sky-rotation-shader){:target="_blank"}
+* simple damage shake -> [`code snippet`](https://github.com/alissin/little-big-tips/simple-damage-shake){:target="_blank"}
+* singleton pattern -> [`code snippet`](https://github.com/alissin/little-big-tips/_pattern-algorithm/singleton){:target="_blank"}
 
 ###	Boost the Rocket
 
