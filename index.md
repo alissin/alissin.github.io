@@ -58,7 +58,7 @@ Prototypes to show some cool gameplay techniques:
 
 > ![Realm Defender](./demonstration-projects/realm-defender.png)
 
-"Defend your realm from the strong enemies warriors. Use everything you have!"<br/>
+"Defend your realm from the strong enemy warriors. Use everything you have!"<br/>
 A 3D pathfinder / tower defence style game.<br/>
 Play this demonstration on [simmer.io](https://simmer.io/@alissin/realm-defender){:target="_blank"}.
 
