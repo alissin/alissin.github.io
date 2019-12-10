@@ -63,10 +63,10 @@ A 3D pathfinder / tower defence style game.<br/>
 Play this demonstration on [simmer.io](https://simmer.io/@alissin/realm-defender){:target="_blank"}.
 
 **Mechanics / techniques / tools:**
-* pathfinder using Breadth First Search -> [`code snippet`](https://github.com/alissin/little-big-tips/_pattern-algorithm/breadth-first-search){:target="_blank"}
-* object pool pattern -> [`code snippet`](https://github.com/alissin/little-big-tips/_pattern-algorithm/object-pool){:target="_blank"}
-* raycast 3D click detection -> [`code snippet`](https://github.com/alissin/little-big-tips/raycast-3D-click-detection){:target="_blank"}
-* simple cooldown -> [`code snippet`](https://github.com/alissin/little-big-tips/simple-cooldown){:target="_blank"}
+* pathfinder using Breadth First Search -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_pattern-algorithm/breadth-first-search){:target="_blank"}
+* object pool pattern -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_pattern-algorithm/object-pool){:target="_blank"}
+* raycast 3D click detection -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/raycast-3D-click-detection){:target="_blank"}
+* simple cooldown -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/simple-cooldown){:target="_blank"}
 
 ###	Combat Wings
 
@@ -77,10 +77,10 @@ A 3rd person path rail shooter.<br/>
 Play this demonstration on [simmer.io](https://simmer.io/@alissin/combat-wings){:target="_blank"}.
 
 **Mechanics / techniques / tools:**
-* airplane movement -> [`code snippet`](https://github.com/alissin/little-big-tips/airplane-movement){:target="_blank"}
-* sky rotation shader -> [`code snippet`](https://github.com/alissin/little-big-tips/_vfx/sky-rotation-shader){:target="_blank"}
-* simple damage shake -> [`code snippet`](https://github.com/alissin/little-big-tips/simple-damage-shake){:target="_blank"}
-* singleton pattern -> [`code snippet`](https://github.com/alissin/little-big-tips/_pattern-algorithm/singleton){:target="_blank"}
+* airplane movement -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/airplane-movement){:target="_blank"}
+* sky rotation shader -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_vfx/sky-rotation-shader){:target="_blank"}
+* simple damage shake -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/simple-damage-shake){:target="_blank"}
+* singleton pattern -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_pattern-algorithm/singleton){:target="_blank"}
 
 ###	Boost the Rocket
 
@@ -91,8 +91,8 @@ A 2.5D game that uses physics to control the gravity of the rocket. You can laun
 Play this demonstration on [simmer.io](https://simmer.io/@alissin/boost-the-rocket){:target="_blank"}.
 
 **Mechanics / techniques / tools:**
-* land the rocket -> [`code snippet`](https://github.com/alissin/little-big-tips/land-the-rocket){:target="_blank"}
-* explode the rocket -> [`code snippet`](https://github.com/alissin/little-big-tips/explode-the-rocket){:target="_blank"}
+* land the rocket -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/land-the-rocket){:target="_blank"}
+* explode the rocket -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/explode-the-rocket){:target="_blank"}
 
 ###	Goal Dribble
 
@@ -103,7 +103,7 @@ A 3D fast-paced twitch humble version inspired in Super Hexagon and my first gam
 Play this demonstration on [simmer.io](https://simmer.io/@alissin/goal-dribble){:target="_blank"}.
 
 **Mechanics / techniques / tools:**
-* roll the ball -> [`code snippet`](https://github.com/alissin/little-big-tips/roll-the-ball){:target="_blank"}
+* roll the ball -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/roll-the-ball){:target="_blank"}
 
 # Contact ![Joystick](./images/joystick.png)
 
