@@ -9,7 +9,7 @@ I'm a passionate _**Unity Gameplay Developer / Programmer**_ who loves to develo
 If you are a developer, I really appreciate if these [code snippets](https://github.com/alissin/little-big-tips){:target="_blank"} could help you!<br />
 If you are a gamer, let's have [some fun](https://simmer.io/@alissin){:target="_blank"}!
 
-# Portifolio ![Joystick](./images/joystick.png)
+# Portfolio ![Joystick](./images/joystick.png)
 
 ## Featured Projects
 
