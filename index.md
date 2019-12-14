@@ -11,6 +11,10 @@ If you are a gamer, let's have [some fun](https://simmer.io/@alissin){:target="_
 
 # Portfolio ![Joystick](./images/joystick.png)
 
+[**Featured Projects**](#featured-projects)<br/>
+[**Demonstration Projects**](#demonstration-projects)<br/>
+[**VFX Demonstrations**](#vfx-demonstrations)
+
 ## Featured Projects
 
 Some production projects already published:
@@ -78,7 +82,6 @@ Play this demonstration on [simmer.io](https://simmer.io/@alissin/combat-wings){
 
 **Mechanics / techniques / tools:**
 * airplane movement -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/airplane-movement){:target="_blank"}
-* sky rotation shader -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_vfx/sky-rotation-shader){:target="_blank"}
 * simple damage shake -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/simple-damage-shake){:target="_blank"}
 * singleton pattern -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_pattern-algorithm/singleton){:target="_blank"}
 
@@ -104,6 +107,16 @@ Play this demonstration on [simmer.io](https://simmer.io/@alissin/goal-dribble){
 
 **Mechanics / techniques / tools:**
 * roll the ball -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/roll-the-ball){:target="_blank"}
+
+## VFX Demonstrations
+
+Some nice visual effects with Shader and Particle System:
+
+* flag animation shader -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_vfx/flag-animation-shader){:target="_blank"}
+* lava animation shader -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_vfx/lava-animation-shader){:target="_blank"}
+* sky rotation shader -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_vfx/sky-rotation-shader){:target="_blank"}
+
+[comment]: <* smoke particle - [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_vfx/smoke-particle){:target="_blank"}>
 
 # Contact ![Joystick](./images/joystick.png)
 
