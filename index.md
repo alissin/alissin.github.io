@@ -115,6 +115,7 @@ Some nice visual effects with Shader and Particle System:
 * flag animation shader -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_vfx/flag-animation-shader){:target="_blank"}
 * lava animation shader -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_vfx/lava-animation-shader){:target="_blank"}
 * sky rotation shader -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_vfx/sky-rotation-shader){:target="_blank"}
+* birds flight particle -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_vfx/birds-flight-particle){:target="_blank"}
 * smoke particle -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_vfx/smoke-particle){:target="_blank"}
 
 # Contact ![Joystick](./images/joystick.png)
