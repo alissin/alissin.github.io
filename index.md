@@ -6,8 +6,12 @@ layout: default
 
 I'm a passionate _**Unity Gameplay Developer / Programmer**_ who loves to develop gameplay mechanics for entertainment and educational game-focused applications, as well as design patterns and level design.
 
-If you are a developer, I really appreciate if my [GitHub](https://github.com/alissin/little-big-tips){:target="_blank"} repository with these [code snippets](https://github.com/alissin/little-big-tips){:target="_blank"} could help you!<br />
-If you are a gamer, let's have [some fun](https://simmer.io/@alissin){:target="_blank"}!
+Below you can **download** the [Featured Projects](#featured-projects) and **play online** the [Demonstrations](#demonstration-projects).
+
+As an extension of this Portfolio, take a look at my [GitHub](https://github.com/alissin/little-big-tips){:target="_blank"} repository. You'll see the implementations of the main mechanics that were used in these [Demonstrations](#demonstration-projects) and the [VFX](#vfx-demonstrations).
+
+By the way, if you are a developer, I really appreciate if these [code snippets](https://github.com/alissin/little-big-tips){:target="_blank"} could help you!<br/>
+If you want to play online the Demonstrations, [go ahead](https://simmer.io/@alissin){:target="_blank"}!
 
 # Portfolio ![Joystick](./images/joystick.png)
 
@@ -58,6 +62,18 @@ You can read more and early access on [Play Store](https://play.google.com/store
 
 Prototypes to show some cool gameplay techniques:
 
+###	The Dungeon
+
+> ![The Dungeon](./demonstration-projects/the-dungeon.png)
+
+"Escape from this mysterious dungeon!"<br/>
+A FPS action RPG style game.<br/>
+Play this demonstration on [simmer.io](https://simmer.io/@alissin/the-dungeon){:target="_blank"}.
+
+**Mechanics / techniques / tools:**<br/>
+_Note_: The purpose of this demonstration is to evaluate the gameplay mechanics listed below. The FPS shooter gameplay mechanic itself, the amazing scenario and the props are free assets from the Asset Store.
+* state pattern -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_pattern-algorithm/state){:target="_blank"}
+
 ###	Realm Defender
 
 > ![Realm Defender](./demonstration-projects/realm-defender.png)
@@ -66,7 +82,8 @@ Prototypes to show some cool gameplay techniques:
 A 3D pathfinder / tower defence style game.<br/>
 Play this demonstration on [simmer.io](https://simmer.io/@alissin/realm-defender){:target="_blank"}.
 
-**Mechanics / techniques / tools:**
+**Mechanics / techniques / tools:**<br/>
+_Note_: The purpose of this demonstration is to evaluate the gameplay mechanics listed below. The amazing scenario and the props are free assets from the Asset Store.
 * pathfinder using Breadth First Search -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_pattern-algorithm/breadth-first-search){:target="_blank"}
 * object pool pattern -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_pattern-algorithm/object-pool){:target="_blank"}
 * raycast 3D click detection -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/raycast-3D-click-detection){:target="_blank"}
@@ -80,7 +97,8 @@ Play this demonstration on [simmer.io](https://simmer.io/@alissin/realm-defender
 A 3rd person path rail shooter.<br/>
 Play this demonstration on [simmer.io](https://simmer.io/@alissin/combat-wings){:target="_blank"}.
 
-**Mechanics / techniques / tools:**
+**Mechanics / techniques / tools:**<br/>
+_Note_: The purpose of this demonstration is to evaluate the gameplay mechanics listed below. The amazing scenario and the props are free assets from the Asset Store.
 * airplane movement -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/airplane-movement){:target="_blank"}
 * simple damage shake -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/simple-damage-shake){:target="_blank"}
 * singleton pattern -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_pattern-algorithm/singleton){:target="_blank"}
@@ -105,7 +123,8 @@ Play this demonstration on [simmer.io](https://simmer.io/@alissin/boost-the-rock
 A 3D fast-paced twitch humble version inspired in Super Hexagon and my first game in Unity!<br/>
 Play this demonstration on [simmer.io](https://simmer.io/@alissin/goal-dribble){:target="_blank"}.
 
-**Mechanics / techniques / tools:**
+**Mechanics / techniques / tools:**<br/>
+_Note_: The purpose of this demonstration is to evaluate the gameplay mechanics listed below. The textures and the sprites are free assets from the Asset Store.
 * roll the ball -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/roll-the-ball){:target="_blank"}
 
 ## VFX Demonstrations
