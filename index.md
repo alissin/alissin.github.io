@@ -8,7 +8,7 @@ I'm a passionate _**Unity Gameplay Developer / Programmer**_ who loves to develo
 
 Below you can **download** the [Featured Projects](#featured-projects) and **play online** the [Demonstrations](#demonstration-projects).
 
-As an **extension** of this Portfolio, take a look at my [**GitHub**](https://github.com/alissin/little-big-tips){:target="_blank"} **repository**. You'll see the implementations of the main mechanics that were used in these [Demonstrations](#demonstration-projects) and the [VFX](#vfx-demonstrations).
+As an **extension** of this Portfolio, take a look at my [GitHub](https://github.com/alissin/little-big-tips){:target="_blank"} **repository**. You'll see the implementations of the main mechanics that were used in these [Demonstrations](#demonstration-projects) and the [VFX](#vfx-demonstrations).
 
 By the way, if you are a developer, I really appreciate if these [code snippets](https://github.com/alissin/little-big-tips){:target="_blank"} could help you!<br/>
 If you want to play online the Demonstrations, [go ahead](https://simmer.io/@alissin){:target="_blank"}!
