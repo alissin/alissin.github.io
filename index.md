@@ -75,6 +75,7 @@ _Note_: The purpose of this demonstration is to evaluate the gameplay mechanics 
 **Mechanics / techniques / tools:**
 * state pattern -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_pattern-algorithm/state){:target="_blank"}
 * command pattern -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_pattern-algorithm/command){:target="_blank"}
+* flyweight pattern -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_pattern-algorithm/flyweight){:target="_blank"}
 
 ###	Realm Defender
 
