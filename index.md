@@ -140,17 +140,25 @@ _Note_: The purpose of this demonstration is to evaluate the gameplay mechanics 
 
 Some nice visual effects with Shader and Particle System:
 
-![flag animation shader](./vfx-demonstrations/flag-animation-shader_mini.png)|![lava animation shader](./vfx-demonstrations/lava-animation-shader_mini.png)|![sky rotation shader](./vfx-demonstrations/sky-rotation-shader_mini.png)
---|--|--
-flag animation shader<br/>[`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_vfx/flag-animation-shader){:target="_blank"}|lava animation shader<br/>[`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_vfx/lava-animation-shader){:target="_blank"}|sky rotation shader<br/>[`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_vfx/sky-rotation-shader){:target="_blank"}
+> ![flag animation shader](./vfx-demonstrations/flag-animation-shader_mini.png)
 
-<br/>
+* flag animation shader -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_vfx/flag-animation-shader){:target="_blank"}
 
-![birds flight particle](./vfx-demonstrations/birds-flight-particle_mini.png)|![smoke particle](./vfx-demonstrations/smoke-particle_mini.png)|<br/>
---|--|--
-birds flight particle<br/>[`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_vfx/birds-flight-particle){:target="_blank"}|smoke particle<br/>[`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_vfx/smoke-particle){:target="_blank"}|<br/>
+> ![lava animation shader](./vfx-demonstrations/lava-animation-shader_mini.png)
 
-<br/>
+* lava animation shader -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_vfx/lava-animation-shader){:target="_blank"}
+
+> ![sky rotation shader](./vfx-demonstrations/sky-rotation-shader_mini.png)
+
+* sky rotation shader -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_vfx/sky-rotation-shader){:target="_blank"}
+
+> ![birds flight particle](./vfx-demonstrations/birds-flight-particle_mini.png)
+
+* birds flight particle -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_vfx/birds-flight-particle){:target="_blank"}
+
+> ![smoke particle](./vfx-demonstrations/smoke-particle_mini.png)
+
+* smoke particle -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_vfx/smoke-particle){:target="_blank"}
 
 # Contact ![Joystick](./images/joystick.png)
 
