@@ -144,9 +144,11 @@ Some nice visual effects with Shader and Particle System:
 --|--|--
 flag animation shader<br/>[`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_vfx/flag-animation-shader){:target="_blank"}|lava animation shader<br/>[`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_vfx/lava-animation-shader){:target="_blank"}|sky rotation shader<br/>[`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_vfx/sky-rotation-shader){:target="_blank"}
 
-![birds flight particle](./vfx-demonstrations/birds-flight-particle_mini.png)|![smoke particle](./vfx-demonstrations/smoke-particle_mini.png)
---|--
-birds flight particle<br/>[`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_vfx/birds-flight-particle){:target="_blank"}|smoke particle<br/>[`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_vfx/smoke-particle){:target="_blank"}
+<br/>
+
+![birds flight particle](./vfx-demonstrations/birds-flight-particle_mini.png)|![smoke particle](./vfx-demonstrations/smoke-particle_mini.png)|
+--|--|--
+birds flight particle<br/>[`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_vfx/birds-flight-particle){:target="_blank"}|smoke particle<br/>[`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_vfx/smoke-particle){:target="_blank"}|
 
 # Contact ![Joystick](./images/joystick.png)
 
