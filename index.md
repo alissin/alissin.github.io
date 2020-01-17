@@ -146,9 +146,11 @@ flag animation shader<br/>[`code snippet`](https://github.com/alissin/little-big
 
 <br/>
 
-![birds flight particle](./vfx-demonstrations/birds-flight-particle_mini.png)|![smoke particle](./vfx-demonstrations/smoke-particle_mini.png)|
+![birds flight particle](./vfx-demonstrations/birds-flight-particle_mini.png)|![smoke particle](./vfx-demonstrations/smoke-particle_mini.png)|<br/>
 --|--|--
-birds flight particle<br/>[`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_vfx/birds-flight-particle){:target="_blank"}|smoke particle<br/>[`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_vfx/smoke-particle){:target="_blank"}|
+birds flight particle<br/>[`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_vfx/birds-flight-particle){:target="_blank"}|smoke particle<br/>[`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_vfx/smoke-particle){:target="_blank"}|<br/>
+
+<br/>
 
 # Contact ![Joystick](./images/joystick.png)
 
