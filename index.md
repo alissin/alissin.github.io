@@ -78,6 +78,7 @@ _Note_: The purpose of this demonstration is to evaluate the gameplay mechanics 
 * flyweight pattern -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_pattern-algorithm/flyweight){:target="_blank"}
 * state pattern -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_pattern-algorithm/state){:target="_blank"}
 * drop item by chance -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/drop-item-by-chance){:target="_blank"}
+* hit damage calculation -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/hit-damage-calculation){:target="_blank"}
 * raycast patrol detection -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/raycast-patrol-detection){:target="_blank"}
 
 ###	Realm Defender
