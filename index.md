@@ -4,7 +4,7 @@ layout: default
 
 # Hello and welcome! ![Joystick](./images/joystick.png)
 
-With 3 [published mobile games](#featured-projects), 5 [playable demonstrations](#demonstration-projects) and [dozens of tips](https://github.com/alissin/little-big-tips){:target="_blank"} (code snippets) on GitHub to prove my value, I'm a _**Unity Gameplay Developer / Programmer**_ who loves to develop gameplay mechanics for entertainment and educational game-focused applications, as well as design patterns and level design. I also have a mobile development background with 10+ applications and 10+ years of software development experience.
+With 3 [published mobile games](#featured-projects), 5 [playable demonstrations](#demonstration-projects) and dozens of [tips (code snippets)](https://github.com/alissin/little-big-tips){:target="_blank"} on GitHub to prove my value, I'm a _**Unity Gameplay Developer / Programmer**_ who loves to develop gameplay mechanics for entertainment and educational game-focused applications, as well as design patterns and level design. I also have a mobile development background with 10+ applications and 10+ years of software development experience.
 
 Below you can **download** the [Featured Projects](#featured-projects) and **play online** the [Demonstrations](#demonstration-projects).
 
