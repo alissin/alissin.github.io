@@ -4,7 +4,7 @@ layout: default
 
 # Hello and welcome! ![Joystick](./images/joystick.png)
 
-With 3 [published mobile games](#featured-projects), 5 [playable demonstrations](#demonstration-projects) and a lot of [tips (code snippets)](https://github.com/alissin/little-big-tips){:target="_blank"} on GitHub to prove my value, I'm a _**Unity Gameplay Developer / Programmer**_ with experience in developing gameplay mechanics for entertainment and educational game-focused applications, as well as design patterns and level design. I also have a mobile development background with 10+ applications and 10+ years of software development experience.
+With 3 [published mobile games](#featured-projects), 5 [playable demonstrations](#demonstration-projects) and a lot of [code snippets (tips)](https://github.com/alissin/little-big-tips){:target="_blank"} on GitHub, I'm a _**Unity Gameplay Developer / Programmer**_ with experience in developing gameplay mechanics for entertainment and educational game-focused applications, as well as design patterns and level design. I also have a mobile development background with 10+ applications and 10+ years of software development experience.
 
 Below you can **download** the [Featured Projects](#featured-projects) and **play online** the [Demonstrations](#demonstration-projects).
 
@@ -27,23 +27,24 @@ Some production projects already published:
 
 > ![Porta Aberta RA](./featured-projects/porta-aberta-ra.png)
 
-A 3D mobile game with Augmented Reality for education purposes.<br/>
-You can read more, download and play it on [Apple Store](https://apps.apple.com/us/app/porta-aberta-ra/id1464966853){:target="_blank"}.
+A 3D mobile game with Augmented Reality for education purposes. 2019, 2 months.<br/>
+Download on the [Apple Store](https://apps.apple.com/us/app/porta-aberta-ra/id1464966853){:target="_blank"}.
 
-**Mechanics / techniques / tools:**
-* augmented reality;
-* Vulforia;
-* 3D models / animations;
+**My responsibilities:**
+* Augmented Reality;
+* Vuforia integration;
+* interaction with the 3D models and animations;
 
 ### CPFL Energia em Jogo
 
 > ![CPFL Energia em Jogo](./featured-projects/cpfl-energia-em-jogo.png)
 
-An isometric 2D game with RPG mechanic for education purposes in saving power.<br/>
-You can read more, download and play it on [Play Store](https://play.google.com/store/apps/details?id=br.com.energiaemjogo.cpfl){:target="_blank"}.
+An isometric 2D game with RPG mechanic for education purposes in saving power. 2019, 3 months.<br/>
+Get it on [Play Store](https://play.google.com/store/apps/details?id=br.com.energiaemjogo.cpfl){:target="_blank"}.
 
-**Mechanics / techniques / tools:**
-* basic finite-state machine mechanic;
+**My responsibilities:**
+* basic finite-state machine mechanic to control the player's actions and states;
+* interaction and control of the player's animations (sprite sheet);
 * event based system;
 * basic RPG and time based mechanic (health, stamina (happiness));
 * remote access: multiple users login / ranking points;
@@ -52,27 +53,27 @@ You can read more, download and play it on [Play Store](https://play.google.com/
 
 > ![Motherly](./featured-projects/motherly.png)
 
-A 2D / mobile app to help women in their pregnancy process.<br/>
-You can read more and early access on [Play Store](https://play.google.com/store/apps/details?id=com.perugluglu.motherly){:target="_blank"}.
+A 2D / mobile app to help women in their pregnancy process. 2019, 1 month.<br/>
+Get it on [Play Store](https://play.google.com/store/apps/details?id=com.perugluglu.motherly){:target="_blank"}.
 
-**Mechanics / techniques / tools:**
+**My responsibilities:**
 * screen template and dynamic flow mechanic, filled and organized in runtime;
 
 ## Demonstration Projects
 
-Prototypes to show some cool gameplay techniques:
+Prototypes to show some cool gameplay techniques (personal projects):
 
 ###	The Dungeon
 
 > ![The Dungeon](./demonstration-projects/the-dungeon.png)
 
 "Escape from this mysterious dungeon!"<br/>
-A FPS action RPG style game.<br/>
-Play this demonstration on [simmer.io](https://simmer.io/@alissin/the-dungeon){:target="_blank"}.
+A FPS action RPG style game, developed in 2020.<br/>
+Play it on [simmer.io](https://simmer.io/@alissin/the-dungeon){:target="_blank"}.
 
 _Note_: The purpose of this demonstration is to evaluate the gameplay mechanics listed below. The FPS shooter gameplay mechanic itself, the amazing scenario and the props are free assets from the Asset Store.
 
-**Mechanics / techniques / tools:**
+**Mechanics / techniques I used:**
 * command pattern -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_pattern-algorithm/command){:target="_blank"}
 * component pattern -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_pattern-algorithm/component){:target="_blank"}
 * flyweight pattern -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_pattern-algorithm/flyweight){:target="_blank"}
@@ -86,12 +87,12 @@ _Note_: The purpose of this demonstration is to evaluate the gameplay mechanics 
 > ![Realm Defender](./demonstration-projects/realm-defender.png)
 
 "Defend your realm from the strong enemy warriors. Use everything you have!"<br/>
-A 3D pathfinder / tower defence style game.<br/>
-Play this demonstration on [simmer.io](https://simmer.io/@alissin/realm-defender){:target="_blank"}.
+A 3D pathfinder / tower defence style game, developed in 2019.<br/>
+Play it on [simmer.io](https://simmer.io/@alissin/realm-defender){:target="_blank"}.
 
 _Note_: The purpose of this demonstration is to evaluate the gameplay mechanics listed below. The amazing scenario and the props are free assets from the Asset Store.
 
-**Mechanics / techniques / tools:**
+**Mechanics / techniques I used:**
 * pathfinder using Breadth First Search -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_pattern-algorithm/breadth-first-search){:target="_blank"}
 * object pool pattern -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_pattern-algorithm/object-pool){:target="_blank"}
 * observer pattern -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_pattern-algorithm/observer){:target="_blank"}
@@ -103,12 +104,12 @@ _Note_: The purpose of this demonstration is to evaluate the gameplay mechanics 
 > ![Combat Wings](./demonstration-projects/combat-wings.png)
 
 "Defend your planet from the rogue robots!"<br/>
-A 3rd person path rail shooter.<br/>
-Play this demonstration on [simmer.io](https://simmer.io/@alissin/combat-wings){:target="_blank"}.
+A 3rd person path rail shooter, developed in 2019.<br/>
+Play it on [simmer.io](https://simmer.io/@alissin/combat-wings){:target="_blank"}.
 
 _Note_: The purpose of this demonstration is to evaluate the gameplay mechanics listed below. The amazing scenario and the props are free assets from the Asset Store.
 
-**Mechanics / techniques / tools:**
+**Mechanics / techniques I used:**
 * airplane movement -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/airplane-movement){:target="_blank"}
 * simple damage shake -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/simple-damage-shake){:target="_blank"}
 * singleton pattern -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_pattern-algorithm/singleton){:target="_blank"}
@@ -118,10 +119,10 @@ _Note_: The purpose of this demonstration is to evaluate the gameplay mechanics 
 > ![Boost the Rocket](./demonstration-projects/boost-the-rocket.png)
 
 "Be strong and boost the rocket wisely to escape these space dungeons!"<br/>
-A 2.5D game that uses physics to control the gravity of the rocket. You can launch it smoothly, but be careful to land it!<br/>
-Play this demonstration on [simmer.io](https://simmer.io/@alissin/boost-the-rocket){:target="_blank"}.
+A 2.5D game that uses physics to control the gravity of the rocket. You can launch it smoothly, but be careful to land it! Developed in 2019.<br/>
+Play it on [simmer.io](https://simmer.io/@alissin/boost-the-rocket){:target="_blank"}.
 
-**Mechanics / techniques / tools:**
+**Mechanics / techniques I used:**
 * land the rocket -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/land-the-rocket){:target="_blank"}
 * explode the rocket -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/explode-the-rocket){:target="_blank"}
 
@@ -130,12 +131,12 @@ Play this demonstration on [simmer.io](https://simmer.io/@alissin/boost-the-rock
 > ![Goal Dribble](./demonstration-projects/goal-dribble.png)
 
 "As a good soccer striker, sometimes you have to finish the play and make the goal!"<br/>
-A 3D fast-paced twitch humble version inspired in Super Hexagon and my first game in Unity!<br/>
-Play this demonstration on [simmer.io](https://simmer.io/@alissin/goal-dribble){:target="_blank"}.
+A 3D fast-paced twitch humble version inspired in Super Hexagon and my first game in Unity! Developed in 2018.<br/>
+Play it on [simmer.io](https://simmer.io/@alissin/goal-dribble){:target="_blank"}.
 
 _Note_: The purpose of this demonstration is to evaluate the gameplay mechanics listed below. The textures and the sprites are free assets from the Asset Store.
 
-**Mechanics / techniques / tools:**
+**Mechanics / techniques I used:**
 * roll the ball -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/roll-the-ball){:target="_blank"}
 
 ## VFX Demonstrations
