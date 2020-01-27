@@ -33,7 +33,7 @@ Download on the [Apple Store](https://apps.apple.com/us/app/porta-aberta-ra/id14
 **My responsibilities:**
 * Augmented Reality;
 * Vuforia integration;
-* interaction with the 3D models and animations;
+* 3D models and animations interaction;
 
 ### CPFL Energia em Jogo
 
@@ -44,10 +44,10 @@ Get it on [Play Store](https://play.google.com/store/apps/details?id=br.com.ener
 
 **My responsibilities:**
 * basic finite-state machine mechanic to control the player's actions and states;
-* interaction and control of the player's animations (sprite sheet);
+* player's animations (sprite sheet) interaction and control;
 * event based system;
-* basic RPG and time based mechanic (health, stamina (happiness));
-* remote access: multiple users login / ranking points;
+* REST api remote access (network) like multiple users login / ranking points;
+* FSM integration with a basic RPG and time based mechanic (health, stamina (happiness));
 
 ### Motherly
 
@@ -58,6 +58,7 @@ Get it on [Play Store](https://play.google.com/store/apps/details?id=com.peruglu
 
 **My responsibilities:**
 * screen template and dynamic flow mechanic, filled and organized in runtime;
+* save/load (encrypted) game files system;
 
 ## Demonstration Projects
 
