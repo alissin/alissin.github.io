@@ -76,13 +76,13 @@ Play it on [simmer.io](https://simmer.io/@alissin/the-dungeon){:target="_blank"}
 _Note_: The purpose of this demonstration is to evaluate the gameplay mechanics listed below. The FPS shooter gameplay mechanic itself, the amazing scenario and the props are free assets from the Asset Store.
 
 **Mechanics / techniques I used:**
-* command pattern -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_pattern-algorithm/command){:target="_blank"}
-* component pattern -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_pattern-algorithm/component){:target="_blank"}
-* flyweight pattern -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_pattern-algorithm/flyweight){:target="_blank"}
-* state pattern -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_pattern-algorithm/state){:target="_blank"}
-* drop item by chance -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/drop-item-by-chance){:target="_blank"}
-* hit damage calculation -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/hit-damage-calculation){:target="_blank"}
-* raycast patrol detection -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/raycast-patrol-detection){:target="_blank"}
+* command pattern ➤ [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_pattern-algorithm/command){:target="_blank"}
+* component pattern ➤ [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_pattern-algorithm/component){:target="_blank"}
+* flyweight pattern ➤ [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_pattern-algorithm/flyweight){:target="_blank"}
+* state pattern ➤ [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_pattern-algorithm/state){:target="_blank"}
+* drop item by chance ➤ [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/drop-item-by-chance){:target="_blank"}
+* hit damage calculation ➤ [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/hit-damage-calculation){:target="_blank"}
+* raycast patrol detection ➤ [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/raycast-patrol-detection){:target="_blank"}
 
 ###	Realm Defender
 
@@ -95,11 +95,11 @@ Play it on [simmer.io](https://simmer.io/@alissin/realm-defender){:target="_blan
 _Note_: The purpose of this demonstration is to evaluate the gameplay mechanics listed below. The amazing scenario and the props are free assets from the Asset Store.
 
 **Mechanics / techniques I used:**
-* pathfinder using Breadth First Search -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_pattern-algorithm/breadth-first-search){:target="_blank"}
-* object pool pattern -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_pattern-algorithm/object-pool){:target="_blank"}
-* observer pattern -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_pattern-algorithm/observer){:target="_blank"}
-* raycast 3D click / touch detection -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/raycast-3D-click-detection){:target="_blank"}
-* simple cooldown -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/simple-cooldown){:target="_blank"}
+* pathfinder using Breadth First Search ➤ [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_pattern-algorithm/breadth-first-search){:target="_blank"}
+* object pool pattern ➤ [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_pattern-algorithm/object-pool){:target="_blank"}
+* observer pattern ➤ [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_pattern-algorithm/observer){:target="_blank"}
+* raycast 3D click / touch detection ➤ [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/raycast-3D-click-detection){:target="_blank"}
+* simple cooldown ➤ [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/simple-cooldown){:target="_blank"}
 
 ###	Combat Wings
 
@@ -112,9 +112,9 @@ Play it on [simmer.io](https://simmer.io/@alissin/combat-wings){:target="_blank"
 _Note_: The purpose of this demonstration is to evaluate the gameplay mechanics listed below. The amazing scenario and the props are free assets from the Asset Store.
 
 **Mechanics / techniques I used:**
-* airplane movement -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/airplane-movement){:target="_blank"}
-* simple damage shake -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/simple-damage-shake){:target="_blank"}
-* singleton pattern -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_pattern-algorithm/singleton){:target="_blank"}
+* airplane movement ➤ [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/airplane-movement){:target="_blank"}
+* simple damage shake ➤ [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/simple-damage-shake){:target="_blank"}
+* singleton pattern ➤ [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_pattern-algorithm/singleton){:target="_blank"}
 
 ###	Boost the Rocket
 
@@ -125,8 +125,8 @@ A 2.5D game that uses physics to control the gravity of the rocket. You can laun
 Play it on [simmer.io](https://simmer.io/@alissin/boost-the-rocket){:target="_blank"}.
 
 **Mechanics / techniques I used:**
-* land the rocket -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/land-the-rocket){:target="_blank"}
-* explode the rocket -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/explode-the-rocket){:target="_blank"}
+* land the rocket ➤ [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/land-the-rocket){:target="_blank"}
+* explode the rocket ➤ [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/explode-the-rocket){:target="_blank"}
 
 ###	Goal Dribble
 
@@ -139,7 +139,7 @@ Play it on [simmer.io](https://simmer.io/@alissin/goal-dribble){:target="_blank"
 _Note_: The purpose of this demonstration is to evaluate the gameplay mechanics listed below. The textures and the sprites are free assets from the Asset Store.
 
 **Mechanics / techniques I used:**
-* roll the ball -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/roll-the-ball){:target="_blank"}
+* roll the ball ➤ [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/roll-the-ball){:target="_blank"}
 
 ## VFX Demonstrations
 
@@ -147,23 +147,23 @@ Some nice visual effects with Shader and Particle System:
 
 > ![flag animation shader](./vfx-demonstrations/flag-animation-shader_mini.png)
 
-* flag animation shader -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_vfx/flag-animation-shader){:target="_blank"}
+* flag animation shader ➤ [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_vfx/flag-animation-shader){:target="_blank"}
 
 > ![lava animation shader](./vfx-demonstrations/lava-animation-shader_mini.png)
 
-* lava animation shader -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_vfx/lava-animation-shader){:target="_blank"}
+* lava animation shader ➤ [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_vfx/lava-animation-shader){:target="_blank"}
 
 > ![sky rotation shader](./vfx-demonstrations/sky-rotation-shader_mini.png)
 
-* sky rotation shader -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_vfx/sky-rotation-shader){:target="_blank"}
+* sky rotation shader ➤ [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_vfx/sky-rotation-shader){:target="_blank"}
 
 > ![birds flight particle](./vfx-demonstrations/birds-flight-particle_mini.png)
 
-* birds flight particle -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_vfx/birds-flight-particle){:target="_blank"}
+* birds flight particle ➤ [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_vfx/birds-flight-particle){:target="_blank"}
 
 > ![smoke particle](./vfx-demonstrations/smoke-particle_mini.png)
 
-* smoke particle -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_vfx/smoke-particle){:target="_blank"}
+* smoke particle ➤ [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_vfx/smoke-particle){:target="_blank"}
 
 ## Game Jam Projects
 
