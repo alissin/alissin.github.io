@@ -145,7 +145,8 @@ _Note_: The purpose of this demonstration is to evaluate the gameplay mechanics 
 
 Some nice visual effects with Shader and Particle System:
 
-![flag animation shader](./vfx-demonstrations/flag-animation-shader_mini.png) <iframe width="354" height="200" src="https://www.youtube.com/embed/ciC5yaOy-S0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> ![flag animation shader](./vfx-demonstrations/flag-animation-shader_mini.png)
+> <iframe width="354" height="200" src="https://www.youtube.com/embed/ciC5yaOy-S0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * flag animation shader ➤ [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_vfx/flag-animation-shader){:target="_blank"}
 
