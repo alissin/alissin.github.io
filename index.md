@@ -17,7 +17,8 @@ If you want to play online the Demonstrations, [go ahead](https://simmer.io/@ali
 
 [Featured Projects](#featured-projects)<br/>
 [Demonstration Projects](#demonstration-projects)<br/>
-[VFX Demonstrations](#vfx-demonstrations)
+[VFX Demonstrations](#vfx-demonstrations)<br/>
+[Game Jam Projects](#game-jam-projects)
 
 ## Featured Projects
 
@@ -163,6 +164,33 @@ Some nice visual effects with Shader and Particle System:
 > ![smoke particle](./vfx-demonstrations/smoke-particle_mini.png)
 
 * smoke particle -> [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_vfx/smoke-particle){:target="_blank"}
+
+## Game Jam Projects
+
+Some game jam projects that I had a lot of fun:
+
+###	My Little Cyborg
+
+> ![My Little Cyborg](./game-jam-projects/my-little-cyborg.png)
+
+A simple 2D casual mobile game using Unity that allows the player to personalize it's damaged robot character as it's favorite hero robot.<br/>
+Global Game Jam 2020, 48 hours. The theme was **Repair**<br/>
+See more on the [Global Game Jam](https://globalgamejam.org/2020/games/my-little-cyborg-4){:target="_blank"} project page.
+
+**My responsibilities:**
+* all code programming;
+
+###	Calab Repair
+
+> ![Colab Repair](./game-jam-projects/colab-repair.png)
+
+A simple 2D casual game using Godot that two players need to collaborate to repair their house.<br/>
+Global Game Jam 2020, 48 hours. The theme was **Repair**<br/>
+See more on the [Global Game Jam](https://globalgamejam.org/2020/games/colab-repair-5){:target="_blank"} project page.
+
+**My responsibilities:**
+* base player locomotion programming;
+* design coparticipation;
 
 # Contact ![Joystick](./images/joystick.png)
 
