@@ -199,5 +199,4 @@ Do you have an interesting project in mind? I'm open for professional opportunit
 [![LinkedIn](./images/contact_linkedin.png)](https://linkedin.com/in/alissin){:target="_blank"}
 [![SIMMER](./images/contact_simmer.png)](https://simmer.io/@alissin){:target="_blank"}
 [![GitHub](./images/contact_github.png)](https://github.com/alissin/little-big-tips){:target="_blank"}
-
-[comment]: <[![YouTube](./images/contact_youtube.png)](https://www.youtube.com/alissinsilva/){:target="_blank"}>
+[![YouTube](./images/contact_youtube.png)](https://www.youtube.com/alissinsilva/){:target="_blank"}
