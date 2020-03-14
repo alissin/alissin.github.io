@@ -86,7 +86,7 @@ _Note_: The purpose of this demonstration is to evaluate the gameplay mechanics 
 
 ###	Realm Defender
 
-> ![Realm Defender](./demonstration-projects/realm-defender.png)
+> <iframe width="850" height="480" src="https://youtu.be/3RJa7A2lHqE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 "Defend your realm from the strong enemy warriors. Use everything you have!"<br/>
 A 3D pathfinder / tower defence style game, developed in 2019.<br/>
@@ -103,7 +103,7 @@ _Note_: The purpose of this demonstration is to evaluate the gameplay mechanics 
 
 ###	Combat Wings
 
-> ![Combat Wings](./demonstration-projects/combat-wings.png)
+> <iframe width="850" height="480" src="https://youtu.be/cYuWADYG_vc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 "Defend your planet from the rogue robots!"<br/>
 A 3rd person path rail shooter, developed in 2019.<br/>
@@ -118,7 +118,7 @@ _Note_: The purpose of this demonstration is to evaluate the gameplay mechanics 
 
 ###	Boost the Rocket
 
-> ![Boost the Rocket](./demonstration-projects/boost-the-rocket.png)
+> <iframe width="850" height="480" src="https://youtu.be/dQG2FUZd22M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 "Be strong and boost the rocket wisely to escape these space dungeons!"<br/>
 A 2.5D game that uses physics to control the gravity of the rocket. You can launch it smoothly, but be careful to land it! Developed in 2019.<br/>
@@ -130,7 +130,7 @@ Play it on [simmer.io](https://simmer.io/@alissin/boost-the-rocket){:target="_bl
 
 ###	Goal Dribble
 
-> ![Goal Dribble](./demonstration-projects/goal-dribble.png)
+> <iframe width="850" height="480" src="https://youtu.be/e6-BrcPI4xc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 "As a good soccer striker, sometimes you have to finish the play and make the goal!"<br/>
 A 3D fast-paced twitch humble version inspired in Super Hexagon and my first game in Unity! Developed in 2018.<br/>
