@@ -4,13 +4,13 @@ layout: default
 
 # Hello and welcome! ![Joystick](./images/joystick.png)
 
-With 3 [published mobile games](#featured-projects), 5 [playable demonstrations](#demonstration-projects) and a lot of [code snippets (tips)](https://github.com/alissin/little-big-tips){:target="_blank"} on GitHub, I'm a _**Unity Gameplay Developer / Programmer**_ with experience in developing gameplay mechanics for entertainment and educational game-focused applications, as well as design patterns and level design. I also have a mobile development background with 10+ applications and 10+ years of software development experience.
+With 3 [published mobile games](#featured-projects), 5 [playable demonstrations](#demonstration-projects) and a lot of [code snippets (tips)](https://github.com/alissin/little-big-tips){:target="_blank"} on GitHub, I'm a _**Unity Gameplay Programmer**_ with experience in developing gameplay mechanics for entertainment and educational game-focused applications, as well as design patterns and level design. I also have a mobile development background with 10+ applications and 10+ years of software development experience.
 
 Below you can **download** the [Featured Projects](#featured-projects) and **play online** the [Demonstrations](#demonstration-projects).
 
 As an **extension** of this Portfolio, take a look at my [GitHub](https://github.com/alissin/little-big-tips){:target="_blank"} **repository**. You'll see the implementations of the main mechanics that were used in these [Demonstrations](#demonstration-projects) and the [VFX](#vfx-demonstrations).
 
-By the way, if you are a developer, I really appreciate if these [code snippets](https://github.com/alissin/little-big-tips){:target="_blank"} could help you!<br/>
+By the way, if you are a programmer / developer, I really appreciate if these [code snippets](https://github.com/alissin/little-big-tips){:target="_blank"} could help you!<br/>
 If you want to play online the Demonstrations, [go ahead](https://simmer.io/@alissin){:target="_blank"}!
 
 # Portfolio ![Joystick](./images/joystick.png)
