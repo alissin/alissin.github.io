@@ -4,14 +4,13 @@ layout: default
 
 # Hello and welcome! ![Joystick](./images/joystick.png)
 
-With 3 [published mobile games](#featured-projects), 5 [playable demonstrations](#demonstration-projects) and a lot of [code snippets (tips)](https://github.com/alissin/little-big-tips){:target="_blank"} on GitHub, I'm a _**Unity Gameplay Programmer**_ with experience in developing gameplay mechanics for entertainment and educational game-focused applications, as well as design patterns and level design. I also have a mobile development background with 10+ applications and 10+ years of software development experience.
+With 5 [published mobile games](#featured-projects), a [multiplayer VR simulator](#featured-projects) for PC, 5 [playable demonstrations](#demonstration-projects) and a lot of [code snippets (tips)](https://github.com/alissin/little-big-tips){:target="_blank"} on GitHub, I'm a _**Unity Gameplay Programmer**_ with experience in developing gameplay mechanics for entertainment and educational game-focused applications, as well as design patterns and level design. I also have a mobile development background with 10+ applications and 10+ years of software development experience.
 
-Below you can **download** the [Featured Projects](#featured-projects) and **play online** the [Demonstrations](#demonstration-projects).
+Below you can **download** some of the [Featured Projects](#featured-projects) and **play online** the [Demonstrations](#demonstration-projects).
 
-As an **extension** of this Portfolio, take a look at my [GitHub](https://github.com/alissin/little-big-tips){:target="_blank"} **repository**. You'll see the implementations of the main mechanics that were used in these [Demonstrations](#demonstration-projects) and the [VFX](#vfx-demonstrations).
+As an **extension** of this Portfolio, take a look at my [GitHub](https://github.com/alissin/little-big-tips){:target="_blank"} **repository**. You'll see the implementations of the main mechanics that were used in these [Demonstrations](#demonstration-projects) and some [VFX](#vfx-demonstrations) (Shader and Particle) examples.
 
-By the way, if you are a programmer / developer, I really appreciate if these [code snippets](https://github.com/alissin/little-big-tips){:target="_blank"} could help you!<br/>
-If you want to play online the Demonstrations, [go ahead](https://simmer.io/@alissin){:target="_blank"}!
+By the way, if you are a programmer / developer, I really appreciate if these [code snippets](https://github.com/alissin/little-big-tips){:target="_blank"} could help you!
 
 # Portfolio ![Joystick](./images/joystick.png)
 
@@ -24,11 +23,48 @@ If you want to play online the Demonstrations, [go ahead](https://simmer.io/@ali
 
 Some production projects already published:
 
+###	Car Design - Contest Game
+
+> ![Car Design - Contest Game](./featured-projects/car-design.png)
+
+A prototype of a car contest game with a 3D customization using decals. 2021, 3 months.
+
+**My responsibilities:**
+* UI flow navigation;
+* 3D customization environment integration;
+* contest mechanic (customize, publish, voting);
+
+###	Dice Mafia - Board Game 
+
+> ![Dice Mafia - Board Game](./featured-projects/dice-mafia.png)
+
+A 3D board game with some very nice features like: a progression system (multiple boards), a building (housing) upgrade system as well as invasion and battle systems. 2021, 4 months.
+
+**My responsibilities:**
+* Invasion and battle systems simulation;
+* Progression and bulding upgrade systems;
+* Multiple boards mechanic (prototype);
+* 3D models and animations interaction;
+
+###	VR Multiplayer Game / Simulator - AVI
+
+> ![VR Multiplayer Game / Simulator - AVI](./featured-projects/avi.png)
+
+A Multiplayer VR electrician training simulator for PC. 2020-2021, 1 year, 4 months.
+
+**My responsibilities:**
+* Hybrid input system: VR, keyboard and mouse, gamepad;
+* Different weather conditions (rain, wind, thunder, lightning) and periods of the day (day, night) as well as some shader development like different tree movements depending on weather conditions;
+* Multiplayer base architecture using a 3rd party library;
+* State machine to control different training exercises;
+* Inventory system;
+* Collect and Interact with items in the scenario; 
+
 ###	Porta Aberta RA
 
 > ![Porta Aberta RA](./featured-projects/porta-aberta-ra.png)
 
-A 3D mobile game with Augmented Reality for education purposes. 2019, 2 months.<br/>
+A 3D mobile game that uses the Augmented Reality to present information about a teaching method to schools. 2019, 2 months.<br/>
 Download on the [Apple Store](https://apps.apple.com/us/app/porta-aberta-ra/id1464966853){:target="_blank"}.
 
 **My responsibilities:**
@@ -40,15 +76,15 @@ Download on the [Apple Store](https://apps.apple.com/us/app/porta-aberta-ra/id14
 
 > ![CPFL Energia em Jogo](./featured-projects/cpfl-energia-em-jogo.png)
 
-An isometric 2D game with RPG mechanic for education purposes in saving power. 2019, 3 months.<br/>
+A 2D isometric game with simple RPG mechanics that teaches kids how to save electricity at home. 2019, 3 months.<br/>
 Get it on [Play Store](https://play.google.com/store/apps/details?id=br.com.energiaemjogo.cpfl){:target="_blank"}.
 
 **My responsibilities:**
 * basic finite-state machine mechanic to control the player's actions and states;
+    * integration with a basic RPG and time based mechanic (health, stamina (happiness));
 * player's animations (sprite sheet) interaction and control;
 * event based system;
 * REST api remote access (network) like multiple users login / ranking points;
-* FSM integration with a basic RPG and time based mechanic (health, stamina (happiness));
 
 ### Motherly
 
@@ -59,7 +95,7 @@ Get it on [Play Store](https://play.google.com/store/apps/details?id=com.peruglu
 
 **My responsibilities:**
 * screen template and dynamic flow mechanic, filled and organized in runtime;
-* save/load (encrypted) game files system;
+* save/load game files system;
 
 ## Demonstration Projects
 
@@ -73,7 +109,7 @@ Prototypes to show some cool gameplay techniques (personal projects):
 A FPS action RPG style game, developed in 2020.<br/>
 Play it on [simmer.io](https://simmer.io/@alissin/the-dungeon){:target="_blank"}.
 
-_Note_: The purpose of this demonstration is to evaluate the gameplay mechanics listed below. The FPS shooter gameplay mechanic itself, the amazing scenario and the props are free assets from the Asset Store.
+_Note_: The purpose of this demonstration is to evaluate the gameplay mechanics listed below. The FPS shooter gameplay mechanic itself, the scenario and the props are free assets from the Asset Store.
 
 **Mechanics / techniques I used:**
 * command pattern ➤ [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_pattern-algorithm/command){:target="_blank"}
@@ -92,7 +128,7 @@ _Note_: The purpose of this demonstration is to evaluate the gameplay mechanics 
 A 3D pathfinder / tower defence style game, developed in 2019.<br/>
 Play it on [simmer.io](https://simmer.io/@alissin/realm-defender){:target="_blank"}.
 
-_Note_: The purpose of this demonstration is to evaluate the gameplay mechanics listed below. The amazing scenario and the props are free assets from the Asset Store.
+_Note_: The purpose of this demonstration is to evaluate the gameplay mechanics listed below. The scenario and the props are free assets from the Asset Store.
 
 **Mechanics / techniques I used:**
 * pathfinder using Breadth First Search ➤ [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/_pattern-algorithm/breadth-first-search){:target="_blank"}
@@ -109,7 +145,7 @@ _Note_: The purpose of this demonstration is to evaluate the gameplay mechanics 
 A 3rd person path rail shooter, developed in 2019.<br/>
 Play it on [simmer.io](https://simmer.io/@alissin/combat-wings){:target="_blank"}.
 
-_Note_: The purpose of this demonstration is to evaluate the gameplay mechanics listed below. The amazing scenario and the props are free assets from the Asset Store.
+_Note_: The purpose of this demonstration is to evaluate the gameplay mechanics listed below. The scenario and the props are free assets from the Asset Store.
 
 **Mechanics / techniques I used:**
 * airplane movement ➤ [`code snippet`](https://github.com/alissin/little-big-tips/tree/master/airplane-movement){:target="_blank"}
@@ -180,7 +216,7 @@ See more on the [Global Game Jam](https://globalgamejam.org/2020/games/my-little
 **My responsibilities:**
 * all code programming;
 
-###	Calab Repair
+###	Colab Repair
 
 > ![Colab Repair](./game-jam-projects/colab-repair.png)
 
