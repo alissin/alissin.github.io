@@ -80,8 +80,7 @@ A 2D isometric game with simple RPG mechanics that teaches kids how to save elec
 Get it on [Play Store](https://play.google.com/store/apps/details?id=br.com.energiaemjogo.cpfl){:target="_blank"}.
 
 **My responsibilities:**
-* basic finite-state machine mechanic to control the player's actions and states;
-    * integration with a basic RPG and time based mechanic (health, stamina (happiness));
+* basic finite-state machine mechanic to control the player's actions and states, integrated with a basic RPG and time based mechanic (health, stamina (happiness));
 * player's animations (sprite sheet) interaction and control;
 * event based system;
 * REST api remote access (network) like multiple users login / ranking points;
