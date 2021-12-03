@@ -23,11 +23,11 @@ By the way, if you are a programmer / developer, I really appreciate if these [c
 
 Some production projects already published:
 
-###	Car Design - Contest Game
+###	Car Styler - Contest Game
 
-> ![Car Design - Contest Game](./featured-projects/car-design.png)
+> ![Car Styler - Contest Game](./featured-projects/car-design.png)
 
-A prototype of a car contest game with a 3D customization using decals. 2021, 3 months.
+A prototype of a car design contest game with a 3D customization using decals. 2021, 3 months.
 
 **My responsibilities:**
 * UI flow navigation;
