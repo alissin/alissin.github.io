@@ -61,9 +61,9 @@ A prototype of a car design contest game with a 3D customization using decals. 2
 A 3D board game with some very nice features like: a progression system (multiple boards), a building (housing) upgrade system as well as invasion and battle systems. 2021, 4 months.
 
 **My responsibilities:**
-* Invasion and battle systems simulation;
-* Progression and bulding upgrade systems;
-* Multiple boards mechanic (prototype);
+* invasion and battle systems simulation;
+* progression and bulding upgrade systems;
+* multiple boards mechanic (prototype);
 * 3D models and animations interaction;
 
 ###	VR Multiplayer Game / Simulator - AVI
@@ -73,12 +73,12 @@ A 3D board game with some very nice features like: a progression system (multipl
 A Multiplayer VR electrician training simulator for PC. 2020-2021, 1 year, 4 months.
 
 **My responsibilities:**
-* Hybrid input system: VR, keyboard and mouse, gamepad;
-* Different weather conditions (rain, wind, thunder, lightning) and periods of the day (day, night) as well as some shader development like different tree movements depending on weather conditions;
-* Multiplayer base architecture using a 3rd party library;
-* State machine to control different training exercises;
-* Inventory system;
-* Collect and Interact with items in the scenario; 
+* hybrid input system: VR, keyboard and mouse, gamepad;
+* different weather conditions (rain, wind, thunder, lightning) and periods of the day (day, night) as well as some shader development like different tree movements depending on weather conditions;
+* multiplayer base architecture using a 3rd party library;
+* state machine to control different training exercises;
+* inventory system;
+* collect and Interact with items in the scenario; 
 
 ###	Porta Aberta RA
 
