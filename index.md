@@ -4,7 +4,7 @@ layout: default
 
 # Hello and welcome! ![Joystick](./images/joystick.png)
 
-With 5 [published mobile games](#featured-projects), a [multiplayer VR simulator](#featured-projects) for PC, 5 [playable demonstrations](#demonstration-projects) and a lot of [code snippets (tips)](https://github.com/alissin/little-big-tips){:target="_blank"} on GitHub, I'm a _**Unity Gameplay Programmer**_ with experience in developing gameplay mechanics for entertainment and educational game-focused applications, as well as design patterns and level design. I also have a mobile development background with 10+ applications and 10+ years of software development experience.
+With 10+ [mobile games](#featured-projects), a [multiplayer VR simulator](#featured-projects) for PC, 5 [playable demonstrations](#demonstration-projects) and a lot of [code snippets (tips)](https://github.com/alissin/little-big-tips){:target="_blank"} on GitHub, I'm a _**Gameplay Programmer**_ with experience in developing gameplay mechanics for entertainment and educational game-focused applications. I also have a mobile development background with 10+ applications and 15+ years of software development experience.
 
 Below you can **download** some of the [Featured Projects](#featured-projects) and **play online** the [Demonstrations](#demonstration-projects).
 
@@ -22,6 +22,26 @@ By the way, if you are a programmer / developer, I really appreciate if these [c
 ## Featured Projects
 
 Some production projects already published:
+
+###	Mut Merge - Merge and Idle game
+
+> ![Mut Merge - Merge and Idle game](./featured-projects/mut-merg.png)
+
+A merge/idle game with multiple biomes, a lot of features like currency, boosts, collection as well as an enjoyable progressive quest and reward system. 2022, 3 months.<br/>
+Get it on [Play Store](https://play.google.com/store/apps/details?id=com.Hoplon.ProjectEden){:target="_blank"}.
+
+**My responsibilities:**
+* progressive quest and reward system;
+* monetization and ads implementation;
+
+###	Hyper-casual games
+
+> ![Prototypes01](./featured-projects/prototypes01.png)
+
+Many hyper-casual game prototypes. 2022, 6 months.
+
+**My responsibilities:**
+* reusable gameplay mechanics for different games like: infinity runner, wheel/tire physics simulation, joystick player control, enemy patrol and chase, quest and dialog system, voxel;
 
 ###	Car Styler - Contest Game
 
